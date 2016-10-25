@@ -6,4 +6,4 @@ Log in page
 ![](https://github.com/RileyMiyamoto/final-project-mockup/blob/master/doc/project-login.png)
 
 Create account page
-![](https://github.com/RileyMiyamoto/final-project-mockup/blob/master/doc/createaccount.png)
+![](https://github.com/RileyMiyamoto/final-project-mockup/blob/master/doc/create-account.png)
