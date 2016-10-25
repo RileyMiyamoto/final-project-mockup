@@ -34,3 +34,11 @@ FlowRouter.notFound = {
     BlazeLayout.render('App_Body', { main: 'App_Not_Found' });
   },
 };
+
+FlowRouter.route('/login', {
+  name: 'Log_In',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Log_In' });
+  },
+});
+
