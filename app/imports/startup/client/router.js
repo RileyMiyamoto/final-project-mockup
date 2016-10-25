@@ -42,3 +42,10 @@ FlowRouter.route('/login', {
   },
 });
 
+FlowRouter.route('/createaccount', {
+  name: 'Create_Account',
+  action() {
+    BlazeLayout.render('App_Body', { main: 'Create_Account' });
+  },
+});
+
