@@ -7,3 +7,9 @@ Log in page
 
 Create account page
 ![](https://github.com/RileyMiyamoto/final-project-mockup/blob/master/doc/create-account.png)
+
+Profile Page
+![](https://github.com/RileyMiyamoto/final-project-mockup/blob/master/doc/profile-page.png)
+
+Search club Page
+![](https://github.com/RileyMiyamoto/final-project-mockup/blob/master/doc/search-clubs.png)
