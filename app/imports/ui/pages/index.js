@@ -11,3 +11,5 @@ import './list-stuff-page.js';
 
 import './log-in.html';
 import './create-account.html';
+import './profile.html';
+import './club-pages.html';
